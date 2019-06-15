@@ -1,4 +1,4 @@
-package learn19;
+﻿package learn19;
 import java.util.Scanner;
 public class CashMachine {
 	public static void main(String[] args) {
@@ -24,3 +24,4 @@ public class CashMachine {
 		System.out.println("实收现金"+cash+"应收现额");
 	}	
 }
+//加了一行注释
